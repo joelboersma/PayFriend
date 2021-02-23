@@ -1,0 +1,6 @@
+module Pods_PayFriend {
+  umbrella header "Pods-PayFriend-umbrella.h"
+
+  export *
+  module * { export * }
+}
